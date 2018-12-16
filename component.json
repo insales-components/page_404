@@ -1,0 +1,15 @@
+{
+  "name": "page_404",
+  "version": "1.0.0",
+  "description": "Шаблон страницы 404",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/page_404",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "cellsio": "https://github.com/insales-components/cellsio"
+  }
+}
